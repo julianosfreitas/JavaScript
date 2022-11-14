@@ -1,0 +1,17 @@
+/* BORDA NO HTML */
+html{
+    margin: 25px;
+    border: 5px solid #FEE33A;
+}
+
+/* INTERFACE */
+header, main{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+/* BOTÕES */
+button{
+    width: 80px;
+}

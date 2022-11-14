@@ -1,0 +1,9 @@
+body {
+    background-color: #58b1e9;
+    color: #d06329;
+    width: auto;
+    font: normal 20pt Times;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
